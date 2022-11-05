@@ -1,3 +1,3 @@
-module githugit b.com/NZ-WEB/utils
+module github.com/NZ-WEB/utils
 
 go 1.19
